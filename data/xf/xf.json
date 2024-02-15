@@ -1,6 +1,7 @@
 {
     "冰心诀": {
         "name": "冰心诀",
+        "viName": "Băng Tâm Quyết",
         "id": 10081,
         "force": 5,
         "kungfuId": 10,
@@ -9,6 +10,7 @@
     },
     "云裳心经": {
         "name": "云裳心经",
+        "viName": "Vân Thường Tâm Kinh",
         "id": 10080,
         "force": 5,
         "kungfuId": 9,
@@ -17,6 +19,7 @@
     },
     "花间游": {
         "name": "花间游",
+        "viName": "Hoa Gian Du",
         "id": 10021,
         "force": 2,
         "kungfuId": 5,
@@ -25,6 +28,7 @@
     },
     "离经易道": {
         "name": "离经易道",
+        "viName": "Ly Kinh Dị Đạo",
         "id": 10028,
         "force": 2,
         "kungfuId": 7,
@@ -33,6 +37,7 @@
     },
     "毒经": {
         "name": "毒经",
+        "viName": "Độc Kinh",
         "id": 10175,
         "force": 6,
         "kungfuId": 13,
@@ -41,6 +46,7 @@
     },
     "补天诀": {
         "name": "补天诀",
+        "viName": "Bổ Thiên Quyết",
         "id": 10176,
         "force": 6,
         "kungfuId": 14,
@@ -49,6 +55,7 @@
     },
     "莫问": {
         "name": "莫问",
+        "viName": "Mạc Vấn",
         "id": 10447,
         "force": 22,
         "kungfuId": 22,
@@ -57,6 +64,7 @@
     },
     "相知": {
         "name": "相知",
+        "viName": "Tương Tri",
         "id": 10448,
         "force": 22,
         "kungfuId": 23,
@@ -65,6 +73,7 @@
     },
     "无方": {
         "name": "无方",
+        "viName": "Vô Phương",
         "id": 10627,
         "force": 212,
         "kungfuId": 29,
@@ -73,6 +82,7 @@
     },
     "灵素": {
         "name": "灵素",
+        "viName": "Linh Tố",
         "id": 10626,
         "force": 212,
         "kungfuId": 28,
@@ -81,6 +91,7 @@
     },
     "傲血战意": {
         "name": "傲血战意",
+        "viName": "Ngạo Huyết Chiến Ý",
         "id": 10026,
         "force": 3,
         "kungfuId": 6,
@@ -89,6 +100,7 @@
     },
     "铁牢律": {
         "name": "铁牢律",
+        "viName": "Thiết Lao Luật",
         "id": 10062,
         "force": 3,
         "kungfuId": 8,
@@ -97,6 +109,7 @@
     },
     "易筋经": {
         "name": "易筋经",
+        "viName": "Dị Cân Kinh",
         "id": 10003,
         "force": 1,
         "kungfuId": 2,
@@ -105,6 +118,7 @@
     },
     "洗髓经": {
         "name": "洗髓经",
+        "viName": "Tẩy Tuỷ Kinh",
         "id": 10002,
         "force": 1,
         "kungfuId": 1,
@@ -113,6 +127,7 @@
     },
     "焚影圣诀": {
         "name": "焚影圣诀",
+        "viName": "Phần Ảnh Thánh Quyết",
         "id": 10242,
         "force": 10,
         "kungfuId": 17,
@@ -121,6 +136,7 @@
     },
     "明尊琉璃体": {
         "name": "明尊琉璃体",
+        "viName": "Minh Tôn Lưu Ly Thể",
         "id": 10243,
         "force": 10,
         "kungfuId": 18,
@@ -129,6 +145,7 @@
     },
     "分山劲": {
         "name": "分山劲",
+        "viName": "Phân Sơn Kình",
         "id": 10390,
         "force": 21,
         "kungfuId": 21,
@@ -137,6 +154,7 @@
     },
     "铁骨衣": {
         "name": "铁骨衣",
+        "viName": "Thiết Cốt Y",
         "id": 10389,
         "force": 21,
         "kungfuId": 20,
@@ -145,6 +163,7 @@
     },
     "紫霞功": {
         "name": "紫霞功",
+        "viName": "Tử Hà Công",
         "id": 10014,
         "force": 4,
         "kungfuId": 3,
@@ -153,6 +172,7 @@
     },
     "太虚剑意": {
         "name": "太虚剑意",
+        "viName": "Thái Hư Kiếm Ý",
         "id": 10015,
         "force": 4,
         "kungfuId": 4,
@@ -161,6 +181,7 @@
     },
     "天罗诡道": {
         "name": "天罗诡道",
+        "viName": "Thiên La Nguỵ Đạo",
         "id": 10225,
         "force": 7,
         "kungfuId": 16,
@@ -169,6 +190,7 @@
     },
     "惊羽诀": {
         "name": "惊羽诀",
+        "viName": "Kinh Vũ Quyết",
         "id": 10224,
         "force": 7,
         "kungfuId": 15,
@@ -177,6 +199,7 @@
     },
     "问水诀": {
         "name": "问水诀",
+        "viName": "Vấn Thuỷ Quyết",
         "id": 10144,
         "force": 8,
         "kungfuId": 11,
@@ -185,6 +208,7 @@
     },
     "山居剑意": {
         "name": "山居剑意",
+        "viName": "Sơn Cư Kiếm Ý",
         "id": 10145,
         "force": 8,
         "kungfuId": 11,
@@ -193,6 +217,7 @@
     },
     "笑尘诀": {
         "name": "笑尘诀",
+        "viName": "Tiếu Trần Quyết",
         "id": 10268,
         "force": 9,
         "kungfuId": 19,
@@ -201,6 +226,7 @@
     },
     "北傲诀": {
         "name": "北傲诀",
+        "viName": "Bắc Ngạo Quyết",
         "id": 10464,
         "force": 23,
         "kungfuId": 24,
@@ -209,6 +235,7 @@
     },
     "凌海诀": {
         "name": "凌海诀",
+        "viName": "Lăng Hải Quyết",
         "id": 10533,
         "force": 24,
         "kungfuId": 25,
@@ -217,6 +244,7 @@
     },
     "隐龙诀": {
         "name": "隐龙诀",
+        "viName": "Ẩn Long Quyết",
         "id": 10585,
         "force": 25,
         "kungfuId": 26,
@@ -225,6 +253,7 @@
     },
     "太玄经": {
         "name": "太玄经",
+        "viName": "Thái Huyền Kinh",
         "id": 10615,
         "force": 211,
         "kungfuId": 27,
@@ -233,6 +262,7 @@
     },
     "孤锋诀": {
         "name": "孤锋诀",
+        "viName": "Cô Phong Quyết",
         "id": 10698,
         "force": 213,
         "kungfuId": 30,
@@ -241,6 +271,7 @@
     },
     "山海心诀": {
         "name": "山海心诀",
+        "viName": "Sơn Hải Tâm Quyết",
         "id": 10756,
         "force": 214,
         "kungfuId": 32,
@@ -249,6 +280,7 @@
     },
     "通用": {
         "name": "通用",
+        "viName": "Thông Dụng",
         "id": 0,
         "force": 0,
         "kungfuId": 0,
